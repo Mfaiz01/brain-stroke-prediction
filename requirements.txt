@@ -1,0 +1,11 @@
+flask
+joblib
+flask_login
+flask_sqlalchemy
+flask_bcrypt
+gunicorn
+numpy
+flask_wtf
+psycopg2
+scikit-learn
+email-validator
